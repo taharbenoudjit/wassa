@@ -60,7 +60,7 @@ class Home extends StatelessWidget {
                                 height: 8.0,
                               ),
                               Center(
-                                child: Text('Congès payès',
+                                child: Text('Congés payés',
                                   style: TextStyle(
                                     fontSize: 16.0,
                                     color: Colors.black,
