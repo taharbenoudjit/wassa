@@ -238,7 +238,7 @@ class Home extends StatelessWidget {
                           ],
                         ),
                         FlatButton(
-                          onPressed: (){ Navigator.pushNamed(context, '/diary');},
+                          onPressed: (){ Navigator.pushNamed(context, '/test');},
                           child: Text("Actualiser",
                           style: TextStyle(
                             color: Colors.white,
